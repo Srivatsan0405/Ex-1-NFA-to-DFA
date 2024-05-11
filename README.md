@@ -2,7 +2,7 @@
 # Ex-1-NFA-to-DFA
 # Exercise 1 - Conversion of Non-Deterministic Finite Automaton (NFA) To Deterministic Finite Automaton (DFA)
 
-# Date: 07.02.24
+# Date: 08.02.24
 # NAME: Srivatsan V
 # REGISTER NUMBER: 212223110053
 ## Aim
